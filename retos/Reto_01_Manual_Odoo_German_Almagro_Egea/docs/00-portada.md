@@ -1,4 +1,4 @@
-# Manual de Odoo — {Nombre Apellidos}
-**Reto:** Manual_Odoo_{Nombre}_{Apellidos}  
+# Manual de Odoo — {German Almagro Egea}
+**Reto:** Manual_Odoo_{German}_{Almagro}  
 **Proyecto:** Proyecto_RA2_UT2  
 **Fecha:** {YYYY-MM-DD}
