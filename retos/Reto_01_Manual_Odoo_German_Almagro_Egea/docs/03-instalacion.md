@@ -44,5 +44,4 @@ Despues de haber seleccionado la prueba gratuita, nos da a elegir 10 aplicacione
 
    Hay que tener cuidado ya que si desinstalamos algo vamos a perder todos los datos de la aplicacion 
 
-## Resultado esperado
-- Acceso al panel principal con las apps instaladas.
+
