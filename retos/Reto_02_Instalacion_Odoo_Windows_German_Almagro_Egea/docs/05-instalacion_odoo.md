@@ -1,9 +1,12 @@
 # 05 — Instalación de Odoo
 
-1. Ejecuta el instalador (`.exe`) como **Administrador**.
-2. Acepta la licencia y elige **ruta de instalación**.
-3. Si se solicita, configura la conexión a **PostgreSQL**.
-4. Completa la instalación y finaliza el asistente.
-   - ![Asistente Odoo](../assets/img/05-instalacion_odoo/paso01_asistente.png "Asistente de instalación")
+1. Ejecutamos como administrador, elegimos el idioma que utilizemos, en este caso sera el ingles, aceptamos la licencia 
+   - ![Asistente Odoo](../assets/img/05-instalacion_odoo/paso01_a.png)
 
-> Resultado esperado: Odoo instalado, acceso a accesos directos/servicio.
+   - ![Asistente Odoo](../assets/img/05-instalacion_odoo/paso01_ab.png)
+
+   Y esperamos a que finalice la descarga
+
+   
+
+
